@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import SearchIcon from '@mui/icons-material/Search'
-import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart'
 
 const Container = styled.div`
     height: 60px;
@@ -30,7 +29,7 @@ const OptionLineOne = styled.div`
 `
 const OptionLineTwo = styled.div`
     font-weight: 700; 
-    font-weight: bolder   : ;
+    font-weight: bolder  ;
 `
 const HeaderSearch = styled.div`
     display: flex;
